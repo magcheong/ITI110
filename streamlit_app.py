@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-# import joblib
+import joblib
 import torch
 from neuralforecast import NeuralForecast
 from neuralforecast.models import NBEATS
@@ -15,13 +15,13 @@ from datetime import datetime
 # LE = joblib.load('Encoders/label_encoder.pkl')
 # BE = joblib.load('Encoders/binary_encoder.pkl')
 # OE = joblib.load('Encoders/ordinal_encoder.pkl')
-# configuration = joblib.load("saved_model/configuration.pkl")
-# dataset = joblib.load("saved_model/dataset.pkl")   
+configuration = joblib.load("saved_model/configuration.pkl")
+dataset = joblib.load("saved_model/dataset.pkl")   
 test = pd.read_csv("saved_model/test.csv")   
 
 # Load the model
 # model = joblib.load('Model/model.pkl')
-model = NeuralForecast.load("saved_model/nbeats_0.ckpt")
+model = joblib.load("saved_model/nbeats_0.ckpt")
 
 #define app section
 header=st.container()
