@@ -8,7 +8,7 @@ import pickle
 import torch
 from neuralforecast import NeuralForecast
 from neuralforecast.models import NBEATS
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 from datetime import datetime
 
 # Load the encoders from files
@@ -28,14 +28,14 @@ header=st.container()
 prediction=st.container()
 
 # Define the Lottie animation URL
-lottie_animation_url = "https://lottie.host/89f1f8df-aa47-4771-9441-91da251470e2/qGrHDGTqFH.json"
+# lottie_animation_url = "https://lottie.host/89f1f8df-aa47-4771-9441-91da251470e2/qGrHDGTqFH.json"
 
 #define header
 with header:
     header.title("London Energy Consumption Prediction")
 
     # Display the Lottie animation using st_lottie
-    st_lottie(lottie_animation_url,height=200)
+    # st_lottie(lottie_animation_url,height=200)
 
     header.write("On this page, you can predict the expected energy consumption over the next 7 days.")
 
