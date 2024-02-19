@@ -6,3 +6,4 @@ torch
 datasets
 neuralforecast
 huggingface_hub
+streamlit_lottie
