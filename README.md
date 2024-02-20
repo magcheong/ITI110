@@ -1,2 +1,2 @@
 # ITI110
-Project
+This is final project for Specialist Diploma in Applied AI course.
