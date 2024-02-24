@@ -1,0 +1,30 @@
+﻿input_size,max_steps,train_ratio,weather_param,MAE,RMSE,MAPE,Loss Fn,Train loss
+4,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.243406067,0.277188211,0.732021375,Poisson,0.705
+7,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.118031249,0.145032499,0.341433244,Poisson,0.684
+10,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.112413635,0.137890832,0.331147156,Poisson,0.672
+13,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.084281403,0.101157917,0.218714103,Poisson,0.667
+16,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.073600849,0.086838885,0.190940959,Poisson,0.665
+19,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.067587475,0.085306411,0.147931295,Poisson,0.667
+22,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.07518274,0.096094079,0.159958398,Poisson,0.666
+25,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.068941095,0.083715524,0.161439998,Poisson,0.662
+17,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.069812791,0.082310752,0.175616732,Poisson,0.665
+18,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.070307204,0.083564676,0.174286989,Poisson,0.665
+20,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.065650664,0.082300496,0.14495704,Poisson,0.664
+21,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.071028866,0.089312887,0.15633526,Poisson,0.666
+19,60,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.073189587,0.09254053,0.161454024,Poisson,0.668
+19,65,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.071119136,0.089803498,0.155045028,Poisson,0.668
+19,70,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.068857664,0.087110923,0.149928029,Poisson,0.668
+19,75,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.068877256,0.087865241,0.147655918,Poisson,0.666
+19,80,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.067587475,0.085306411,0.147931295,Poisson,0.667
+19,85,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.0668799,0.084586368,0.146197004,Poisson,0.664
+19,90,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.069140838,0.089111588,0.14549206,Poisson,0.664
+19,95,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.066791504,0.083983777,0.146475946,Poisson,0.662
+19,100,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.070948012,0.090962626,0.149125734,Poisson,0.665
+19,105,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.068667066,0.086166999,0.151144497,Poisson,0.661
+19,110,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.06905658,0.088193987,0.146510442,Poisson,0.663
+19,115,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.067667604,0.083742591,0.152683808,Poisson,0.661
+19,85,0.8,"['holiday', 'temperature', 'humidity', 'windSpeed']",0.0668799,0.084586368,0.146197004,Poisson,0.664
+19,85,0.8,"['holiday', 'temperature', 'humidity']",0.066864248,0.084578171,0.146146298,Poisson,0.664
+19,85,0.8,"['holiday', 'temperature']",0.0668799,0.084586368,0.146197004,Poisson,0.664
+19,85,0.8,['holiday'],0.066896674,0.084640638,0.146068189,Poisson,0.664
+19,85,0.8,['temperature'],0.066896674,0.084640638,0.146068189,Poisson,0.664

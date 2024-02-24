@@ -1,0 +1,39 @@
+﻿input_size,max_steps,train_ratio,weather_param,MAE,RMSE,MAPE,Train Loss
+4,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.484866812,1.722210082,0.130602285,2.3
+7,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.355034848,1.566013032,0.119164978,2.18
+10,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.772281328,3.171775833,0.244186472,2.14
+13,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.918335383,3.402560011,0.256589125,2.13
+16,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.251836962,2.678075242,0.197334024,2.11
+19,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.556715066,0.683211874,0.051652621,2.12
+22,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.008257249,2.372329512,0.176007601,2.11
+25,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.252275521,2.666867436,0.197657581,2.1
+17,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.879162153,2.273347347,0.16491318,2.11
+18,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.244056898,1.507995133,0.109478383,2.12
+20,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.522964879,0.64607141,0.048597988,2.11
+21,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.742479488,0.943770936,0.066671835,2.11
+19,60,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.830986848,0.949113643,0.075373365,2.17
+19,65,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.532856023,0.664433511,0.050504593,2.15
+19,70,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.53599965,0.659015787,0.04992703,2.14
+19,75,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.629508948,0.76658365,0.057374644,2.13
+19,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.556715066,0.683211874,0.051652621,2.12
+19,85,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.516551267,0.645424011,0.049508575,2.11
+19,90,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.907406575,1.024125735,0.085221042,2.11
+19,95,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.855877107,0.96602163,0.080879341,2.1
+19,100,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.73089509,0.877435876,0.070044013,2.1
+19,105,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.982528628,1.090548263,0.092650907,2.1
+19,110,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.795711858,0.946531554,0.076427725,2.1
+19,115,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.928571625,1.050741457,0.088427864,2.09
+19,120,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.638467206,0.805227271,0.062033298,2.09
+19,79,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.628468364,0.759133661,0.057629568,2.12
+19,81,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.490874804,0.618924269,0.046698184,2.12
+19,82,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.49853878,0.627861702,0.047669037,2.11
+19,83,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.50094065,0.631150816,0.047875416,2.11
+19,84,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.506741349,0.631770874,0.048485069,2.11
+19,86,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.567392002,0.714545674,0.054235593,2.11
+19,87,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.545498559,0.681354604,0.052429485,2.11
+19,88,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.610557777,0.759502381,0.05851674,2.11
+19,83,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.50094065,0.631150816,0.047875416,2.11
+19,83,0.8,"['holiday', 'temperatureMax', 'humidity']",0.50094065,0.631150816,0.047875416,2.11
+19,83,0.8,"['holiday', 'temperatureMax']",0.486052736,0.616701741,0.046331875,2.11
+19,83,0.8,['holiday'],0.486052736,0.616701741,0.046331875,2.11
+19,83,0.8,['temperatureMax'],0.486052736,0.616701741,0.046331875,2.11

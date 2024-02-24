@@ -1,0 +1,43 @@
+﻿input_size,max_steps,train_ratio,weather_param,MAE,RMSE,MAPE,Loss_Fn,Train Loss
+7,10,0.7,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.108315708,2.605077199,0.193041093,MAE,6.54
+7,10,0.7,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.108315708,2.605077199,0.193041093,MAE,6.31
+7,10,0.75,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.400138112,2.802819818,0.216642523,MAE,5.09
+7,10,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.367157845,2.697288468,0.20834338,MAE,
+4,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.315854398,1.532274516,0.115960368,MAE,8.38
+7,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.062393178,2.350318467,0.181394679,MAE,2.85
+10,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",3.137289364,3.592307567,0.276227639,MAE,2.06
+13,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",3.033715407,3.465561943,0.267417342,MAE,1.71
+16,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.609197078,3.043884901,0.229397056,MAE,1.47
+19,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.932736509,1.11773673,0.085093415,MAE,1.33
+22,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.477884376,2.861512557,0.21837867,MAE,1.13
+25,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",2.351316281,2.706321705,0.207437273,MAE,1.03
+17,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.88558801,2.261182392,0.165391379,MAE,1.41
+18,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.63964391,0.763640595,0.060183742,MAE,1.38
+20,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",1.082874966,1.288629492,0.098836705,MAE,1.22
+21,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.55173789,0.682763839,0.051666523,MAE,1.21
+21,60,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.619886637,0.759579857,0.055550088,MAE,1.63
+21,65,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.530354244,0.658534095,0.048387678,MAE,1.54
+21,70,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.736440362,0.885791183,0.066194709,MAE,1.35
+21,75,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.698412463,0.842877853,0.06374012,MAE,1.29
+21,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.55173789,0.682763839,0.051666523,MAE,1.21
+21,85,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.742266761,0.890030914,0.068422676,MAE,1.16
+21,90,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.792434405,0.937898426,0.072319709,MAE,1.15
+21,95,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.776092202,0.926651112,0.07109488,MAE,1.05
+21,100,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.721461956,0.855932351,0.066219454,MAE,0.998
+21,105,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.791583575,0.950446412,0.071405858,MAE,0.956
+21,110,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.633493886,0.768008067,0.057875756,MAE,0.94
+21,115,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.722498571,0.854680852,0.065829026,MAE,0.853
+21,120,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.738329195,0.878609165,0.067093496,MAE,0.842
+21,76,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.703792227,0.849541782,0.064633206,MAE,1.36
+21,77,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.633823278,0.775017757,0.05892831,MAE,1.29
+21,78,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.551348556,0.680776155,0.051208349,MAE,1.26
+21,79,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.539166198,0.667334729,0.050349751,MAE,1.29
+21,81,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.66657724,0.809535341,0.061256761,MAE,1.26
+21,82,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.729480518,0.879391723,0.066545077,MAE,1.19
+21,83,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.776408184,0.932819802,0.070471123,MAE,1.19
+21,84,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.695271718,0.841243789,0.064476627,MAE,1.19
+21,80,0.8,"['holiday', 'temperatureMax', 'humidity', 'windSpeed']",0.55173789,0.682763839,0.051666523,MAE,1.21
+21,80,0.8,"['holiday', 'temperatureMax', 'humidity']",0.55173789,0.682763839,0.051666523,MAE,1.21
+21,80,0.8,"['holiday', 'temperatureMax']",0.505969734,0.634200312,0.046804729,MAE,1.2
+21,80,0.8,['holiday'],0.505969734,0.634200312,0.046804729,MAE,1.2
+21,80,0.8,['temperatureMax'],0.505969734,0.634200312,0.046804729,MAE,1.2
